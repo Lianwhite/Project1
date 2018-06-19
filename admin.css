@@ -1,0 +1,144 @@
+body{
+width:100% !important;
+}
+#navbar {
+    background:#000000 !important;
+    height: 70px;
+}
+
+form{
+    float:right;
+    margin-right:3%;
+    margin-top:5%;
+}
+#admin{
+    margin-top:8%;
+    margin-left:13%;
+    color: black;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#admin > h1{
+    color:black !important;
+    font-size:35px;
+    padding-top:30px;
+}
+#grid{
+    max-width:800px;
+    margin-top:40px;
+    border:1px solid black;
+    border-color: #aaaaaa;
+    margin-bottom:70px;
+    box-shadow:5px 5px 5px 5px #2D9CDB;
+}
+#election > h6{
+    font-size:20px;
+    text-align:center;
+    
+}
+#sub-grid > div >h6{
+    margin-left:10px;
+}
+#election > div >h6 > img{
+    margin-top:30px;
+}
+#sub-grid{
+    border-top:1px solid black;
+    border-color: #aaaaaa;
+    padding-top:10px;
+    padding-bottom:20px;
+    /* border-right:1px solid black; */
+}
+.icon{
+    margin-left:15%;
+    color:#000000;
+    font-size:7px;
+}
+.group-icon{
+    margin-top:25px;
+}
+img{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    
+    margin-top:12px;
+ }
+ .gov{
+     margin-top:24px
+ }
+ .governorship{
+    margin-top:70px;
+}
+.icon1{
+    margin-top:40px;
+    margin-left:20px;
+}
+.enable-disable-icon{
+    border-left:1px solid black;
+    border-color: #aaaaaa;
+    font-size:15px;
+}
+.enable-disable-icon > p{
+    margin-left:7%;
+}
+div > a > span{
+    margin-right:5%;
+    margin-left:10px;
+}
+.dropdown-menu {
+   
+    left:950px !important;
+    
+}
+#dropdown-menu > a{
+    text-align:right;
+}
+.modal > .modal-dialog  {
+    z-index: 1; /* Sit on top */
+    padding-top: 30px; /* Location of the box */
+    left: 0;
+    top: 0;
+    max-width: 800px !important; /* Full width */
+    height: 70%; /* Full height */    
+}
+.modal-body{
+    max-width:800px;
+    background: #f3f1f1;
+}
+#modal-image{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    margin-left:350px;
+}
+#table {
+    width:40%;
+    margin-left:240px;
+}
+.modal-body > p{
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+    font-weight: 700;
+}
+ .modal-body > textarea{
+    margin-left:230px;
+}
+#modal-footer > .button1{
+    margin-right:20px;
+}
+#modal-footer > .button2{
+    margin-right:280px;
+}
+
+footer > div{
+    height: 70px !important;
+    
+}
+#footer{
+    background:#000000 !important;
+}
+#footer >p{
+    margin-top:20px !important;
+}

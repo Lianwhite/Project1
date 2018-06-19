@@ -1,0 +1,94 @@
+body{
+width:100% !important;
+}
+.navbar{
+    background-color:#2D9CDB !important;
+}
+/* input{
+    width:40% !important;
+}
+.input{
+   
+    margin-right:3%;
+} */
+form{
+    float:right;
+    margin-right:3%;
+    margin-top:5%;
+}
+#admin{
+    margin-top:12%;
+    margin-left:3%;
+    color: black;
+}
+#admin > h1{
+    color:black !important;
+    font-size:35px;
+    padding-top:30px;
+}
+#grid{
+    max-width:800px;
+    margin-top:40px;
+    border:1px solid black;
+    margin-bottom:100px;
+}
+#election > h6{
+    font-size:20px;
+}
+
+#sub-grid{
+    border-top:1px solid black;
+    /* border-right:1px solid black; */
+}
+.grid-two {
+    margin-bottom:10%;
+   
+}
+.icon{
+    margin-left:15%;
+    color:#000000;
+    font-size:7px;
+}
+img{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    
+    margin-top:12px;
+ }
+ .gov{
+     margin-top:24px
+ }
+ .governorship{
+    margin-top:70px;
+}
+.icon1{
+    margin-top:40px;
+    margin-left:20px;
+}
+.enable-disable-icon{
+    border-left:1px solid black;
+    font-size:15px;
+}
+.enable-disable-icon > p{
+    margin-left:7%;
+}
+div > a > span{
+    margin-right:5%;
+    margin-left:10px;
+}
+.dropdown-menu {
+   
+    left:950px !important;
+    
+}
+#dropdown-menu > a{
+    text-align:right;
+}
+footer{
+    height: 50px !important;
+    background:#2D9CDB !important;
+}
+footer > div{
+    margin-top:10px;
+}
